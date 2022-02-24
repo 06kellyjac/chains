@@ -45,6 +45,7 @@ require (
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.21.0
 	gocloud.dev v0.24.1-0.20211119014450-028788aaaa4c
+	gocloud.dev/docstore/mongodocstore v0.24.0
 	golang.org/x/crypto v0.0.0-20220131195533-30dcbda58838
 	google.golang.org/protobuf v1.27.1
 	k8s.io/api v0.22.5
